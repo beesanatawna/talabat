@@ -1,0 +1,27 @@
+.to-do-app{
+    width: 50%;
+    height: 100vh;
+    background-color: rgb(181, 207, 207);
+    margin: auto;
+    text-align: center;
+    border-radius: 0em;
+
+}
+.to-do-app2{
+    cursor: pointer;
+    position: relative;
+    padding: 12px 8px 12px 40px;
+    background: #eee;
+    font-size: 18px;
+    transition: 0.2s;
+    background: rgb(202, 181, 181);
+    box-sizing: border-box;
+
+}
+.form{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+
+}
